@@ -1,24 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      YOUR SYSTEM HAS BEEN INFECTED WITH COVID-19. KINDLY ISOLATE THE MACHINE TO AVOID IT SPREADING TO OTHERS. THANK YOU.
     </div>
   );
 }
